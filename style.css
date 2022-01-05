@@ -15,10 +15,10 @@ section{
     display: flex;
 }
 
-.half-width{
+.hlaf-width{
     width: 50%;
    
-    padding-right: 60%;
+    padding-left: 2%;
   
 }
 .comming{
@@ -44,4 +44,9 @@ border-radius: 50%;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
    
+}
+.dream-big{
+    background-image: url(/images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
